@@ -1,5 +1,5 @@
 Here is a basic file.
 
-It has lines.
+I changed this line when I added file2.
 
 I added another line.
