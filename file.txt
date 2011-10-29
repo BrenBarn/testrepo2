@@ -1,5 +1,10 @@
 Here is a basic file.
 
+Now I'm going hog-wild.
+I'm adding lines all over the place.
+
 I changed this line when I added file2.
+
+I even added a line way down here!
 
 I added another line.

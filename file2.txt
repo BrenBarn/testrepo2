@@ -1,3 +1,9 @@
 This is a new file.
 
-I added it because one file wasn't enough.
+I'm adding new lines to this file.
+
+I originally added the file because one file wasn't enough.
+
+But now it's way beyond that.
+I need to modify both files.
+That's the only solution.
