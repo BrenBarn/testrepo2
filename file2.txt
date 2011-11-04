@@ -8,4 +8,4 @@ But now it's way beyond that.
 I need to modify both files.
 That's the only solution.
 
-This change was made after pushing a different change.
+Changes in the clone.  This change was made after pushing a different change.
