@@ -3,8 +3,10 @@ Here is a basic file.
 Now I'm going hog-wild.
 I'm adding lines all over the place.
 
+I added this line after pushing a different change.
+
 I changed this line when I added file2.
 
 I even added a line way down here!
 
-I added another line.
+I added another line.  I made this change after pushing a different change.
