@@ -1,7 +1,7 @@
 Here is a basic file.
 
 Now I'm going hog-wild.
-I'm adding lines all over the place.
+I'm adding lines all over the place.  This change was made in the trunk, after fiddling in a branch.
 
 I added this line after pushing a different change.
 
