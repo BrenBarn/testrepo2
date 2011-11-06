@@ -7,7 +7,9 @@ I added this line after pushing a different change.
 
 I changed this line when I added file2.
 
-This change was made in the clone.
+This change was made in the clone.  Another change was made in the trunk.
+
+A line was added in the trunk.
 
 I even added a line way down here!
 
