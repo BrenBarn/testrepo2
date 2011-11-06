@@ -9,6 +9,8 @@ I changed this line when I added file2.
 
 This change was made in the clone.
 
+I'm trying to do a branch.
+
 I even added a line way down here!
 
 I added another line.  I changed it in the clone.  I made this change after pushing a different change.
