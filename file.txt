@@ -9,7 +9,7 @@ I changed this line when I added file2.
 
 This change was made in the clone.
 
-I'm trying to do a branch.
+I'm trying to do a branch.  I made more changes in the branch.
 
 I even added a line way down here!
 

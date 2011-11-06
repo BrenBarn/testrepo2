@@ -4,8 +4,10 @@ I'm adding new lines to this file.
 
 I originally added the file because one file wasn't enough.
 
+I added a line in the branch.
+
 But now it's way beyond that.  I made changes in a branch.
 I need to modify both files.  This change is also in the branch.
-That's the only solution.
+That's the only solution.  I made this change to the branch later.
 
 Changes in the clone.  This change was made after pushing a different change.
