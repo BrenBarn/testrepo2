@@ -4,8 +4,8 @@ I'm adding new lines to this file.
 
 I originally added the file because one file wasn't enough.
 
-But now it's way beyond that.
-I need to modify both files.
+But now it's way beyond that.  I'm making changes in the trunk and branch at the same time.
+I need to modify both files.  TONS of changes!
 That's the only solution.
 
 Changes in the clone.  This change was made after pushing a different change.
