@@ -5,6 +5,8 @@ I'm adding lines all over the place.  This change was made in the trunk, after f
 
 I added this line after pushing a different change.
 
+The repo wasn't cool enough, so I'm making it cooler with this change.
+
 I changed this line when I added file2.
 
 This change was made in the clone.  Another change was made in the trunk.
