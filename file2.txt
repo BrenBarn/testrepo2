@@ -17,3 +17,5 @@ I continued to make changes in the trunk.  I made even more changes in the trunk
 A change to the file.
 
 Another change with github.username. . .
+
+Trying again with email...
