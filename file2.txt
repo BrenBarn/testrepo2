@@ -13,3 +13,5 @@ That's the only solution.  I made this change to the branch later.
 Changes in the clone.  This change was made after pushing a different change.
 
 I continued to make changes in the trunk.  I made even more changes in the trunk.
+
+A change to the file.
