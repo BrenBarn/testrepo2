@@ -8,6 +8,7 @@ I added a line in the branch.  Hopefully this will be the last change in the bra
 
 This commit is going in the main "branch" (i.e., unbookmarked) to test github PRs.
 This is more in the main branch.
+This is even more in the main branch...
 
 But now it's way beyond that.  I made changes in a branch.  I'm making changes in the trunk and branch at the same time.
 I need to modify both files.  This change is also in the branch.  TONS of changes!
